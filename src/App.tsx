@@ -27,7 +27,7 @@ export default function App() {
   return (
     <>
       <header>
-        <h1>Md-Parser</h1>
+        <h1>Parse Pluse</h1>
       </header>
       <main>
         <div className="editor">
