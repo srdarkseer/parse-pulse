@@ -20,7 +20,7 @@ body {
 
 header {
   text-align: center;
-  margin-top: 50px;
+  margin-top: 20px;
 }
 header h1 {
   font-weight: 600;
@@ -34,7 +34,7 @@ header h2 {
 }
 
 main {
-  height: 50vh;
+  height: 85vh;
   display: flex;
   gap: 20px;
   justify-content: center;
@@ -43,8 +43,8 @@ main {
 
 .editor textarea {
   display: flex;
-  width: 400px;
-  height: 500px;
+  width: 600px;
+  height: 650px;
   padding: 20px;
   border-radius: 10px;
   font-size: 1.1rem;
@@ -53,8 +53,8 @@ main {
 
 .preview {
   overflow: auto;
-  width: 400px;
-  height: 500px;
+  width: 600px;
+  height: 650px;
   border: 1px solid var(--black);
   padding: 20px;
   border-radius: 10px;

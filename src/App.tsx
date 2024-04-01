@@ -50,7 +50,7 @@ export default function App() {
   return (
     <>
       <header>
-        <h1>Parse Pluse</h1>
+        <h1>Parse Pulse</h1>
       </header>
       <main>
         <div className="editor">
