@@ -7,6 +7,7 @@ import {
   parseBlockquote,
 } from "./utilities";
 import "./index.css";
+import "./preview.css";
 export default function App() {
   const [markdownInput, setMarkdownInput] = useState("");
 
